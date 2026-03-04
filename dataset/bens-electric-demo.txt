@@ -1,0 +1,11 @@
+Caller: Hi, I’m calling about an electrical issue.
+
+Agent: Thanks for calling Ben’s Electric. How can we help you today?
+
+Caller: We have a breaker panel that keeps tripping.
+
+Agent: Is this an emergency or something that can wait until business hours?
+
+Caller: It’s not urgent but we need someone to check it soon.
+
+Agent: I can take your name and phone number and have a technician call you.
