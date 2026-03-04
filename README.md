@@ -111,3 +111,33 @@ With production access the following improvements could be added:
 ## Author
 
 Sudha Lahari Ganti
+
+                ┌────────────────────────┐
+                │ Demo Call Transcript   │
+                └────────────┬───────────┘
+                             │
+                             ▼
+                ┌────────────────────────┐
+                │ extract_account_data.py │
+                │ Extract structured data │
+                └────────────┬───────────┘
+                             │
+                             ▼
+                ┌────────────────────────┐
+                │ Account Memo JSON      │
+                └────────────┬───────────┘
+                             │
+                             ▼
+                ┌────────────────────────┐
+                │ generate_agent_spec.py │
+                │ Build agent config     │
+                └────────────┬───────────┘
+                             │
+                             ▼
+                ┌────────────────────────┐
+                │ Retell Agent Draft Spec│
+                └────────────┬───────────┘
+                             │
+                             ▼
+                outputs/accounts/bens-electric/v1
+<img width="1408" height="768" alt="AI Automation Project" src="https://github.com/user-attachments/assets/56d7a293-58ff-4b1c-bb1e-c77713440498" />
