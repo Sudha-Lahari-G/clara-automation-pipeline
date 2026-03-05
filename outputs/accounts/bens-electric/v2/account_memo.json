@@ -1,0 +1,18 @@
+{
+  "account_id": "bens-electric",
+  "company_name": "Ben's Electric",
+  "services_supported": [
+    "Electrical repair",
+    "Emergency electrical services",
+    "Wiring installation"
+  ],
+  "business_hours": "Monday-Friday 8AM-6PM",
+  "emergency_definition": "Power outage, exposed wiring, burning smell",
+  "routing_rules": "Emergency calls routed to on-call technician",
+  "office_address": "Address not confirmed",
+  "notes": "Generated from demo call transcript",
+  "questions_or_unknowns": [
+    "Exact office address",
+    "After-hours routing number"
+  ]
+}
