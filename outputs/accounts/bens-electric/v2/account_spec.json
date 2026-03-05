@@ -9,5 +9,5 @@
   ],
   "transfer_protocol": "Transfer emergency calls to on-call technician",
   "fallback_protocol": "Collect caller information and schedule callback",
-  "version": "v1"
+  "version": "v2"
 }
